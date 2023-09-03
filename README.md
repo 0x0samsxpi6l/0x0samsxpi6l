@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hey there! 👋, Felipe here
 
-<!--
-**0x0samsxpi6l/0x0samsxpi6l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Technology and Hacking Enthusiast
+- Information Security
+- Developer
+- Editor
 
-Here are some ideas to get you started:
+[![youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@felipe0x01) [![twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/samsxpi6l)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![samsxpi6l GitHub stats](https://github-readme-stats.vercel.app/api?username=0x0samsxpi6l&show_icons=true&theme=highcontrast)
+
+---
+
+# Skills
+[![Skills](https://skillicons.dev/icons?i=js,html,css,bash,powershell,php,mysql,c,py,sqlite,linux)](https://skillicons.dev)
