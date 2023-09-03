@@ -12,4 +12,4 @@
 ---
 
 # Skills
-[![Skills](https://skillicons.dev/icons?i=js,html,css,bash,powershell,php,mysql,c,py,sqlite,linux)]
+![Skills](https://skillicons.dev/icons?i=js,html,css,bash,powershell,php,mysql,c,py,sqlite,linux)
